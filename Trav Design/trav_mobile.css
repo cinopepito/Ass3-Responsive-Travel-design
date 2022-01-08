@@ -1,0 +1,91 @@
+@media(min-width:320px) and (max-width:480px) {
+    .header{
+        
+    }
+
+    .header:hover  .nav{
+        height: 250px;
+    }
+    .container{
+        height: auto;
+        width: 100%;
+        margin-left: 0;
+    }
+    .logo{
+        font-size: 25px;
+        line-height: 50px;
+        height: 50px;
+        width: 100%;
+    }
+    .navigation{
+        height: auto;
+        width: 100%;
+        margin-left: 0px;
+    }
+    .nav{
+        height: 0px;
+        overflow: hidden;
+    }
+    .nav-link{
+        height: 50px;
+        width: 100%;
+        line-height: 50px;
+    }
+    .banner{
+        height: 200px;
+        margin-top: 50px;
+    }
+    
+    .banner-img{
+        margin-top: 0px;
+    }
+    .places{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .places_container{
+        width: 100%;
+    }
+    .place{
+        width: 100%;
+        margin-bottom: 10px;
+        margin-left: 0%;
+    }
+    .about{
+        margin-top: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .about_container{
+        width: 100%;
+        overflow: hidden;
+    }
+    .about_image{
+        width: 80%;
+        height: auto;
+    }
+    .about_text{
+        width: 80%;
+        text-align: left;
+        font-size: 14px;
+        height: 300px;
+        margin-top: 20px;
+    }
+    .padd{
+        padding: 10px;
+    }
+
+    .bar{
+        margin-top: 0px;
+    }
+    .bar p{
+        font-size: 20px;
+    }
+    .btn{
+        font-size: 16px;
+        padding: 10px 15px;
+    }
+    .gall_img{
+        width: 100%;
+    }
+}
